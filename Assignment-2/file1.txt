@@ -1,0 +1,3 @@
+Hello, this is file one.
+Python is fun to learn.
+File handling is very important.

@@ -1,0 +1,3 @@
+Hello, this is file two.
+Python is fun to learn and easy to code.
+File2 handling is very important.

@@ -1,0 +1,7 @@
+Hello, this is file one.
+Python is fun to learn.
+File handling is very important.
+
+Hello, this is file two.
+Python is fun to learn and easy to code.
+File2 handling is very important.
